@@ -1,6 +1,6 @@
 # C# Console Password Manager
 
-## 📌 Overview
+## Overview
 This is a simple yet secure **password manager** written in C#.  
 It allows you to:
 - **Generate random passwords** with customizable length and complexity.
@@ -11,7 +11,7 @@ It allows you to:
 
 ---
 
-## ✨ Features
+## Features
 1. **Random Password Generator**
    - Customizable length (6–32 characters).
    - Choose whether to include uppercase, lowercase, numbers, and/or symbols.
@@ -32,7 +32,7 @@ It allows you to:
 
 ---
 
-## 🛠 Requirements
+## Requirements
 - **.NET 6.0+** (or compatible C# compiler/runtime).
 - **System.Data.SQLite** NuGet package.
 
