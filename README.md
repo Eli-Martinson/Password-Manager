@@ -39,3 +39,6 @@ It allows you to:
 Install SQLite package:
 ```bash
 dotnet add package System.Data.SQLite
+```
+Notes*
+This was a group project, but the part that I focused on was the SQL database intagration.
